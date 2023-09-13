@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-
 pd.set_option('display.max_colwidth', None)
 
 file_name = input("Enter a class to grade (i.e. class1 for class1.txt): ")
@@ -61,7 +60,7 @@ for i in range(len(df)):
             score += 4
         else:
             score += -1
-            incorrect_answer.append(i)
+            incorrect_answer.append(j)
     student_score.append(score)   
     file.write(line[0] + "," + str(score) + "\n")
 
