@@ -1,4 +1,4 @@
-# DSP301x_introDS
+# DSP301x_ASM2
 # Hướng dẫn về Dự án
 
 ## Mô tả
@@ -31,7 +31,7 @@ Sau khi chạy, ứng dụng sẽ cung cấp thông tin sau:
 Nếu bạn gặp bất kỳ lỗi nào khi chạy chương trình vui lòng cho tôi biết qua địa chỉ email:....
 
 ## Tác giả
-- [Tên của bạn]
+- [Nguyen Hong]
 
 ---
 **Chú ý:** Đảm bảo rằng bạn đã xác định các thông tin cá nhân và tên tác giả thay thế trong tệp README này.
