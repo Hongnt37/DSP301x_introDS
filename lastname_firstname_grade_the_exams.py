@@ -56,7 +56,7 @@ skip_answer = []
 incorrect_answer = []
 for i in range(len(df)):
     score = 0
-    line = df.iloc[i].to_string()
+    line = df.iloc[i].to_string(index=False)
     line = line.split(",")
     # print(line)
     # print(len(line))
